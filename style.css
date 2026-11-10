@@ -10,9 +10,9 @@ body{
   background-color: white;
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(135,156,137);
-  text-align: center;
+  text-align: centre;
 }
 .Kartu-Profil img{
-  widht: 200px;
+  widht: 150px;
   border-radius: 50%;
 }
